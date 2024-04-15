@@ -1,0 +1,6 @@
+argparse
+dnspython
+requests
+beautifulsoup4
+PyQt5
+google
